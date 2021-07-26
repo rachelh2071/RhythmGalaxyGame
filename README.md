@@ -1,5 +1,7 @@
 # :milky_way:_**Rhythm Galaxy**_:milky_way:
 
+####developed by Rachel Huang, Andres Flores, and Marlena Osgood
+
 ## The Game Manual
 
 ### :star:Setting
