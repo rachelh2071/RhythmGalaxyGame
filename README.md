@@ -1,6 +1,11 @@
 # :milky_way:_**Rhythm Galaxy**_:milky_way:
 
-#### developed by Rachel Huang, Andres Flores, and Marlena Osgood
+#### developed by:
+ - Rachel Huang - programmed the entirety of the app
+ - Andres Flores - created the audio
+ - and Marlena Osgood - designed the graphics
+
+
 
 ## The Game Manual
 
